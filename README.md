@@ -3,17 +3,6 @@
 
 We are making this project about TCP,UDP,ICMP pingers in which client pings the server and server send the response to client and at client side we are are displaying the Min.RTT, Max.RTT, Avg.RTT and also displaying the packet loss percentage. 
 
-
-##  Team Members:
-
-SAKSHI BADOLE---CS24MTECH11008
-
-ABDULLA OVAIS---CS24METCH12014
-
-SIMEON SAHASRAMSA GAJULA---SM24MTECH11002
-##
-
-
 # Part-1 UDP
 
 First we run the UDP server for which the command is
